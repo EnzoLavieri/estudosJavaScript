@@ -1,5 +1,3 @@
-
-
 # 📚 Cronograma de Estudo de JavaScript
 
 Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os fundamentos até tópicos mais avançados, incluindo projetos práticos.
@@ -8,14 +6,14 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 
 ### 📌 Fundamentos do JavaScript
 
-### 🔹 Introdução ao JavaScript
+### 🔹 Introdução ao JavaScript ✅
 
 - O que é JavaScript?
 - Como funciona no navegador e no Node.js?
 - Configuração do ambiente (VS Code, Node.js)
 - Primeiro código: `console.log("Hello, JavaScript!")`
 
-### 🔹 Variáveis e Tipos de Dados
+### 🔹 Variáveis e Tipos de Dados ✅
 
 - `var`, `let`, `const`
 - Tipos de dados primitivos (`string`, `number`, `boolean`, `null`, `undefined`, `symbol`, `bigint`)
@@ -170,4 +168,3 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 - Publicando no GitHub
 
 📌 **Dica:** Compartilhe seus projetos e pratique o máximo possível! 🚀
-
