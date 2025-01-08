@@ -1,124 +1,173 @@
-Cronograma de Estudo de JavaScript
--Fundamentos do JavaScript
 
--- Introdução ao JavaScript
-O que é JavaScript?
-Como funciona no navegador e no Node.js
-Configuração do ambiente (VS Code, Node.js)
-Primeiro código: console.log("Hello, JavaScript!")
 
--- Variáveis e Tipos de Dados
-var, let, const
-Tipos de dados primitivos (string, number, boolean, null, undefined, symbol, bigint)
-Conversão de tipos
+# 📚 Cronograma de Estudo de JavaScript
 
--- Operadores e Estruturas Condicionais
-Operadores aritméticos, lógicos e de comparação
-if, else if, else, switch
+Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os fundamentos até tópicos mais avançados, incluindo projetos práticos.
 
--- Estruturas de Repetição
-for, while, do while, forEach
-Trabalhando com loops aninhados
+---
 
--- Funções
-Declaração de funções (function, arrow functions)
-Parâmetros e retorno
-Funções anônimas e callback
+### 📌 Fundamentos do JavaScript
 
--- Arrays e Objetos
-Métodos de array (push, pop, shift, unshift, map, filter, reduce)
-Manipulação de objetos (Object.keys(), Object.values(), Object.entries())
+### 🔹 Introdução ao JavaScript
 
--- Mini-projeto
-Criar um checklist de tarefas (To-Do List) no console
+- O que é JavaScript?
+- Como funciona no navegador e no Node.js?
+- Configuração do ambiente (VS Code, Node.js)
+- Primeiro código: `console.log("Hello, JavaScript!")`
 
-- JavaScript Moderno (ES6+) e DOM
-  -- Introdução ao ES6+
-  let e const
-  Template literals
-  Destructuring
-  Spread e Rest Operator
+### 🔹 Variáveis e Tipos de Dados
 
--- Manipulação do DOM
-Selecionando elementos (getElementById, querySelector)
-Modificando elementos (textContent, innerHTML, style)
-Manipulando classes e atributos
+- `var`, `let`, `const`
+- Tipos de dados primitivos (`string`, `number`, `boolean`, `null`, `undefined`, `symbol`, `bigint`)
+- Conversão de tipos
 
--- Eventos no JavaScript
-addEventListener()
-Eventos de clique, teclado e mouse
-Prevenção de comportamento padrão (preventDefault())
+### 🔹 Operadores e Estruturas Condicionais
 
--- Trabalhando com o LocalStorage
-localStorage e sessionStorage
-Armazenando e recuperando dados
+- Operadores aritméticos, lógicos e de comparação
+- Estruturas condicionais: `if`, `else if`, `else`, `switch`
 
--- Promises e Async/Await
-Introdução às Promises
-Uso de then() e catch()
-Async/Await e Fetch API
+### 🔹 Estruturas de Repetição
 
--- Manipulação de APIs
-Consumindo APIs com fetch()
-Manipulando JSON
-Criando uma requisição assíncrona
+- Loops: `for`, `while`, `do while`, `forEach`
+- Trabalhando com loops aninhados
 
--- Mini-projeto 🚀
-Criar um gerador de frases motivacionais usando uma API
+### 🔹 Funções
 
-- Programação Orientada a Objetos e Avançado
-  -- 15: POO com JavaScript
-  Classes e objetos
-  Construtores e métodos
-  Herança e encapsulamento
+- Declaração de funções (`function`, arrow functions)
+- Parâmetros e retorno
+- Funções anônimas e callbacks
 
--- Manipulação Avançada de Arrays
-map(), filter(), reduce() na prática
-Ordenação e busca de elementos (sort(), find())
+### 🔹 Arrays e Objetos
 
--- Módulos no JavaScript
-import e export
-Trabalhando com múltiplos arquivos
+- Métodos de array (`push`, `pop`, `shift`, `unshift`, `map`, `filter`, `reduce`)
+- Manipulação de objetos (`Object.keys()`, `Object.values()`, `Object.entries()`)
 
--- Expressões Regulares
-Criando e testando regex
-Aplicação em validação de formulários
+### 🚀 Mini-projeto
 
--- Web Storage e Cookies
-Armazenamento de sessão
-Manipulando cookies com JavaScript
+✅ Criar um **checklist de tarefas (To-Do List)** no console.
 
--- Tratamento de Erros
-try, catch, finally
-Criando erros personalizados
+---
 
--- Mini-projeto 🚀
-Criar um validador de formulário interativo
+### 🚀 JavaScript Moderno (ES6+) e DOM
 
-- Frameworks, Bibliotecas e Projeto Final
-  -- Introdução ao TypeScript
-  Tipagem estática
-  Interfaces e Generics
+### 🔹 Introdução ao ES6+
 
--- Introdução ao React
-Criando um projeto com Vite
-Componentes e Props
+- `let` e `const`
+- Template literals
+- Destructuring
+- Spread e Rest Operator
 
--- Webpack e Babel
-Como funcionam e por que usar?
-Configuração básica
+### 🔹 Manipulação do DOM
 
--- Testes com Jest
-Testes unitários
-Mocking de funções
+- Selecionando elementos (`getElementById`, `querySelector`)
+- Modificando elementos (`textContent`, `innerHTML`, `style`)
+- Manipulando classes e atributos
 
--- Segurança e Boas Práticas
-Evitando ataques XSS e CSRF
-Melhores práticas para código limpo
+### 🔹 Eventos no JavaScript
 
--- Projeto Final 🚀
-Criar um dashboard de estatísticas usando APIs externas
+- `addEventListener()`
+- Eventos de clique, teclado e mouse
+- Prevenção de comportamento padrão (`preventDefault()`)
 
--- Revisão Geral e Portfólio
-Melhorando os projetos
-Publicando no GitHub
+### 🔹 Trabalhando com LocalStorage
+
+- `localStorage` e `sessionStorage`
+- Armazenando e recuperando dados
+
+### 🔹 Promises e Async/Await
+
+- Introdução às Promises
+- Uso de `then()` e `catch()`
+- `Async/Await` e `Fetch API`
+
+### 🔹 Manipulação de APIs
+
+- Consumindo APIs com `fetch()`
+- Manipulando JSON
+- Criando uma requisição assíncrona
+
+### 🚀 Mini-projeto
+
+✅ Criar um **gerador de frases motivacionais** usando uma API.
+
+---
+
+### 📌 Programação Orientada a Objetos e Avançado
+
+### 🔹 POO com JavaScript
+
+- Classes e objetos
+- Construtores e métodos
+- Herança e encapsulamento
+
+### 🔹 Manipulação Avançada de Arrays
+
+- Métodos avançados: `map()`, `filter()`, `reduce()`
+- Ordenação e busca de elementos (`sort()`, `find()`)
+
+### 🔹 Módulos no JavaScript
+
+- `import` e `export`
+- Trabalhando com múltiplos arquivos
+
+### 🔹 Expressões Regulares
+
+- Criando e testando regex
+- Aplicação em validação de formulários
+
+### 🔹 Web Storage e Cookies
+
+- Armazenamento de sessão
+- Manipulação de cookies com JavaScript
+
+### 🔹 Tratamento de Erros
+
+- `try`, `catch`, `finally`
+- Criando erros personalizados
+
+### 🚀 Mini-projeto
+
+✅ Criar um **validador de formulário interativo**.
+
+---
+
+### 🚀 Frameworks, Bibliotecas e Projeto Final
+
+### 🔹 Introdução ao TypeScript
+
+- Tipagem estática
+- Interfaces e Generics
+
+### 🔹 Introdução ao React
+
+- Criando um projeto com Vite
+- Componentes e Props
+
+### 🔹 Webpack e Babel
+
+- Como funcionam e por que usar?
+- Configuração básica
+
+### 🔹 Testes com Jest
+
+- Testes unitários
+- Mocking de funções
+
+### 🔹 Segurança e Boas Práticas
+
+- Evitando ataques XSS e CSRF
+- Melhores práticas para código limpo
+
+### 🚀 Projeto Final
+
+✅ Criar um **dashboard de estatísticas** usando APIs externas.
+
+---
+
+### 🎯 Revisão Geral e Portfólio
+
+- Melhorando os projetos
+- Publicando no GitHub
+
+📌 **Dica:** Compartilhe seus projetos e pratique o máximo possível! 🚀
+
