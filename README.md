@@ -19,7 +19,7 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 - Tipos de dados primitivos (`string`, `number`, `boolean`, `null`, `undefined`, `symbol`, `bigint`)
 - Conversão de tipos
 
-### 🔹 Operadores e Estruturas Condicionais
+### 🔹 Operadores e Estruturas Condicionais ✅
 
 - Operadores aritméticos, lógicos e de comparação
 - Estruturas condicionais: `if`, `else if`, `else`, `switch`
