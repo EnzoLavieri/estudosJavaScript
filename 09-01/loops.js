@@ -23,3 +23,12 @@ const arr = [1, 2, 3];
 arr.forEach(function (element) {
   console.log(element);
 });
+
+//Loop aninhado simplesLoop aninhado simples, sem misterio
+for (let i = 1; i < 4; i++) {
+  console.log(`Iteração externa ${i}`);
+
+  for (let k = 1; k < 3; k++) {
+    console.log(`Iteração interna ${k}`);
+  }
+}
