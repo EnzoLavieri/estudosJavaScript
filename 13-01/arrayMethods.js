@@ -58,3 +58,15 @@ console.log(temMaiorQue3);
 //every() – Retorna true se todos os elementos passarem no teste
 let todosMaioresQue0 = [-1, 1, 2, 3].every((num) => num > 0);
 console.log(todosMaioresQue0); // true
+
+// ----- Métodos de Ordenação e Modificação -----
+
+//sort() – Ordena os elementos do array
+// --> ALTERA O ARRAY ORIGINAL <--
+let letras = ["d", "b", "a", "c"];
+letras.sort();
+console.log(letras); // ["a", "b", "c", "d"]
+
+//reverse() – Inverte a ordem dos elementos
+let numerosReverso = [1, 2, 3].reverse();
+console.log(numerosReverso); // [3, 2, 1]
