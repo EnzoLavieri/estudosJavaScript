@@ -24,7 +24,7 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 - Operadores aritméticos, lógicos e de comparação
 - Estruturas condicionais: `if`, `else if`, `else`, `switch`
 
-### 🔹 Estruturas de Repetição
+### 🔹 Estruturas de Repetição ✅
 
 - Loops: `for`, `while`, `do while`, `forEach`
 - Trabalhando com loops aninhados
