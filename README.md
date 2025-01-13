@@ -29,7 +29,7 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 - Loops: `for`, `while`, `do while`, `forEach`
 - Trabalhando com loops aninhados
 
-### 🔹 Funções
+### 🔹 Funções ✅
 
 - Declaração de funções (`function`, arrow functions)
 - Parâmetros e retorno
