@@ -70,3 +70,19 @@ console.log(letras); // ["a", "b", "c", "d"]
 //reverse() – Inverte a ordem dos elementos
 let numerosReverso = [1, 2, 3].reverse();
 console.log(numerosReverso); // [3, 2, 1]
+
+// ----- Métodos de Extração e Combinação -----
+
+//slice() – Retorna uma cópia de parte do array
+let subArray = [1, 2, 3, 4, 5, 6, 7].slice(0, 4);
+console.log(subArray); // [1, 2, 3, 4]
+
+//concat() – Junta dois ou mais arrays
+let array1 = [1, 2];
+let array2 = [3, 4];
+let combinado = array1.concat(array2);
+console.log(combinado); // [1, 2, 3, 4]
+
+//join() – Transforma o array em uma string separada por um delimitador
+let palavras = ["Olá", "mundo"];
+console.log(palavras.join(" ")); // "Olá mundo"
