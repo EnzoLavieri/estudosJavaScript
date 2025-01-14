@@ -86,3 +86,17 @@ console.log(combinado); // [1, 2, 3, 4]
 //join() – Transforma o array em uma string separada por um delimitador
 let palavras = ["Olá", "mundo"];
 console.log(palavras.join(" ")); // "Olá mundo"
+
+// ----- Outros Métodos Úteis -----
+
+//includes() – Verifica se um valor está no array
+let temBanana = ["maçã", "banana", "laranja"].includes("banana");
+console.log(temBanana); // true
+
+//indexOf() – Retorna o índice do primeiro elemento encontrado
+let indiceBanana = ["maçã", "banana", "laranja"].indexOf("banana");
+console.log(indiceBanana); // 1
+
+//lastIndexOf() – Retorna o índice da última ocorrência de um elemento
+let indices = [1, 2, 3, 2, 1].lastIndexOf(2);
+console.log(indices); // 3
