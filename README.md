@@ -35,7 +35,7 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 - Parâmetros e retorno
 - Funções anônimas e callbacks
 
-### 🔹 Arrays e Objetos
+### 🔹 Arrays e Objetos ✅
 
 - Métodos de array (`push`, `pop`, `shift`, `unshift`, `map`, `filter`, `reduce`)
 - Manipulação de objetos (`Object.keys()`, `Object.values()`, `Object.entries()`)
@@ -43,6 +43,7 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 ### 🚀 Mini-projeto
 
 ✅ Criar um **checklist de tarefas (To-Do List)** no console.
+https://github.com/EnzoLavieri/ListaDeTarefasBasicaJS
 
 ---
 
@@ -86,7 +87,7 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 
 ### 🚀 Mini-projeto
 
-✅ Criar um **gerador de frases motivacionais** usando uma API.
+Criar um **gerador de frases motivacionais** usando uma API.
 
 ---
 
@@ -125,7 +126,7 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 
 ### 🚀 Mini-projeto
 
-✅ Criar um **validador de formulário interativo**.
+Criar um **validador de formulário interativo**.
 
 ---
 
@@ -158,7 +159,7 @@ Este cronograma foi elaborado para ajudar no aprendizado de JavaScript, desde os
 
 ### 🚀 Projeto Final
 
-✅ Criar um **dashboard de estatísticas** usando APIs externas.
+Criar um **dashboard de estatísticas** usando APIs externas.
 
 ---
 
