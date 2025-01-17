@@ -15,3 +15,14 @@ const nome2 = "João";
 const mensagem2 = `Olá, ${nome2}! Bem-vindo!`;
 console.log(mensagem2);
 //Vantagens: Mais legibilidade e menos concatenação com +
+
+//--Multi-line Strings
+// Traditional multi-line string
+const multiLine = "Esta é a primeira linha.\nEsta é a segunda linha.";
+
+// Using template literals
+const multiLine2 = `Esta é a primeira linha.
+Esta é a segunda linha.`;
+
+console.log(multiLine);
+console.log(multiLine2);
